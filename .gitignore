@@ -1,0 +1,6 @@
+# Ignorar las carpetas y archivos de entornos virtuales
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+.idea/
