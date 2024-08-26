@@ -17,3 +17,7 @@ A continuación, se presenta una lista de los ejercicios disponibles en este rep
    - [Respuesta C](docs/respuestaC.md)
    - [Respuesta D](docs/respuestaD.md)
 
+
+2. **Consultas a Bases de Datos Estructuradas:**
+   - [Ejercicio Uno](sql/respuesta01.md)
+   - [Ejercicio Dos](sql/respuesta02.md)
