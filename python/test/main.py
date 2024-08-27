@@ -1,6 +1,6 @@
 import app
 import csv
-# from scripts.ingest_datos import cargar_funcionarios, cargar_recibos, cargar_detalle_recibos
+# from scripts.ingest_datas import cargar_funcionarios, cargar_recibos, cargar_detalle_recibos
 # from scripts.modifications import eliminar_recibos_por_cedula, modificar_funcionario
 
 print('\napp.env almacena el entorno de la aplicacion, desde donde se puede acceder a la definición de los modelos de la siguiente forma:')
