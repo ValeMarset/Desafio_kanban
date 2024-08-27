@@ -1,0 +1,7 @@
+tipoConcepto,cantidad,monto
+asgnacion,1,50000.00
+deduccion,1,-5000.00
+asgnacion,1,45000.00
+deduccion,1,-4500.00
+asgnacion,1,60000.00
+deduccion,1,-6000.00
