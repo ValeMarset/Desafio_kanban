@@ -31,9 +31,12 @@ A continuación, se presenta una lista de los ejercicios disponibles en este rep
 
 
 4. **Programación en Python**
+
  - [Archivo main.py](/python/test/main.py) : Este archivo contiene la implementación principal del ejercicio. Aunque no funciona en su totalidad, representa el mejor esfuerzo por resolver la tarea con el enfoque propuesto.
- - [Carpeta scripts/](/python/test/scripts): Dentro de esta carpeta, se encuentran dos archivos ( [ingest_data.py](/python/test/scripts/ingest_data.py) y [modifications.py](/python/test/scripts/modifications.py) que representan la estructura ideal para una correcta modularización del código. Considero que este enfoque es clave para mantener un código limpio y escalable. Aunque no todos los módulos están implementados, me pareció importante reflejar lo que sería ideal para mi.
-   
+
+ - [Carpeta scripts/](/python/test/scripts_python): Dentro de esta carpeta, se encuentran dos archivos ( [ingest_data.py](/python/test/scripts_python/ingest_data.py) y [modifications.py](/python/test/scripts_python/modifications.py) que representan la estructura ideal para una correcta modularización del código. Considero que este enfoque es clave para mantener un código limpio y escalable. Aunque no todos los módulos están implementados, me pareció importante reflejar lo que sería ideal para mi.
+
+[//]: # (   )
    #### Entorno Virtual
    Se creó un entorno virtual para gestionar las dependencias de este proyecto. Aunque en este caso no se utilizaron librerías, se han incluido algunas como pandas y numpy en el archivo requirements.txt a modo de ejemplo. 
 
